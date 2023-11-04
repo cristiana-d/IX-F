@@ -1,0 +1,12 @@
+#include <iostream.h>
+
+int main()
+{
+
+int n;
+sin>>n;
+n=n*2;
+cont<<n;
+return 1;
+
+}
